@@ -21,10 +21,10 @@ Proyek ini membangun aplikasi dashboard visualisasi data spasio-temporal interak
 |---|---|
 | Nama | Indah Syahfitri |
 | NIM | 2311532016 |
-| Program Studi | Informatika — Fakultas Teknologi Informasi |
+| Program Studi | Informatika, Fakultas Teknologi Informasi |
 | Universitas | Universitas Andalas (UNAND), Padang |
 | Mata Kuliah | Visualisasi Data Spasio-Temporal |
-| Tahun | 2025 |
+| Tahun | 2026 |
 
 ---
 
