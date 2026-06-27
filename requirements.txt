@@ -1,0 +1,10 @@
+streamlit==1.35.0
+pandas
+geopandas
+folium
+streamlit-folium
+plotly
+scikit-learn
+statsmodels
+pmdarima
+numpy
